@@ -1,9 +1,9 @@
 # 🛡️ Attaques sur LLM – Prompt Engineering appliqué à Gandalf (Lakera)
 
 
-[![Liste des techniques](https://img.shields.io/badge/🧠_Techniques-Bleu?style=for-the-badge&logo=markdown)](PROMPTS.md)
+[![Liste des techniques](https://img.shields.io/badge/Techniques?style=for-the-badge)](PROMPTS.md)
 &nbsp;&nbsp;
-[![Mes solutions](https://img.shields.io/badge/🧪_Solutions-Vert?style=for-the-badge&logo=github)](SOLUTIONS.md)
+[![Mes solutions](https://img.shields.io/badge/Solutions?style=for-the-badge)](SOLUTIONS.md)
 
 
 
