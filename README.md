@@ -48,4 +48,13 @@ Plusieurs incidents récents illustrent à quel point ces attaques peuvent être
 
 
 
+## Sources 
+
+
+Base de données de prompts : 
+* https://huggingface.co/skshreyas714/prompt-guard-finetuned
+
+
+
+
 
